@@ -1,5 +1,5 @@
-# zendesk_search
- Zendesk coding challenge for JSON search
+ 
+# Zendesk coding challenge for JSON search
 
 **Execution:**
 - Run Main.java using an IDE.
